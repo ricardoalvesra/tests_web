@@ -1,0 +1,26 @@
+input[type=number] {
+  background-color: yellow;
+}
+
+button {
+  background-color: silver;
+}
+
+button:hover {
+  background-color: green;
+}
+
+/* .container {
+    display: flex;
+    flex-wrap: wrap;
+} */
+.square {
+  background-color: silver;
+  padding: 20px;
+}
+
+.row > div {
+  background-color: silver;
+  padding: 20px;
+}
+/*# sourceMappingURL=index4.css.map */
